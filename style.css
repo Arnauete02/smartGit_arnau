@@ -3,3 +3,6 @@ h1{
 	font-size: 18px;
 	color: #5281c3;
 }
+nav ul li:hover {
+ background: #5281c3;
+}
